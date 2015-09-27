@@ -1,2 +1,2 @@
 # datasciencecoursera
-The requisite repo for the Coursear/JHU data science track
+The requisite repo for the Coursera/JHU data science track
